@@ -1,0 +1,14 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: azure;
+}
+
+.style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+  text-align: center;
+  height: 50%;
+}
